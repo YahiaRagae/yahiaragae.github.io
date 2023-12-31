@@ -14,6 +14,15 @@ googleAnalytics = "UA-123-45"
 disableXML = true
 minifyOutput = true
 
+
+[[module.mounts]]
+source = 'static'
+target = 'static' 
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
 [params]
 env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
 title = "ExampleSite"
