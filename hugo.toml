@@ -71,8 +71,8 @@ enabled = true # needs to be explicitly set
 title = "Yahia Ragae"
 subtitle = "🎥 Content Creator | 📱Mobile Application Developer | 📖 Still Learning ... Still Expert"
 imageUrl = "/images/me.png"
-imageWidth = 512
-imageHeight = 512
+imageWidth = 256
+imageHeight = 256
 #buttons = [
 #  { name = "Posts", url = "posts" },
 #  { name = "Tags", url = "tags" }
